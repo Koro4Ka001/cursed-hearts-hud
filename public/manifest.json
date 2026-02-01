@@ -1,0 +1,15 @@
+{
+  "name": "Cursed Hearts HUD",
+  "version": "1.0.0",
+  "manifest_version": 1,
+  "description": "Управление персонажами для Cursed Hearts",
+  "author": "Koro4ka",
+  "icon": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/heart-pulse.svg",
+  "action": {
+    "popover": "/index.html",
+    "title": "Cursed Hearts HUD",
+    "icon": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/heart-pulse.svg",
+    "width": 420,
+    "height": 750
+  }
+}
